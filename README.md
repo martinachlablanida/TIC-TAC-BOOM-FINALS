@@ -12,6 +12,13 @@ We are Group 5 - Tech 5avvies from BSIT 1-5 of Polytechnic University of the Phi
 • **SOUND EFFECT** Feature - The players may turn on/off the music on their end for increased immersion in the game.  
 • **BACKGROUND** - Background or the UI was enhanced to make the game visually appealing and make the players feel like they are inside the game world.  
 
+---
+
+## 🔶 FLOWCHART
+
+![App Output](screenshot.png)
+
+---
 
 ## 💻 TECHNOLOGIES USED
 
